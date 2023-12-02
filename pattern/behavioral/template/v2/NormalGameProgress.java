@@ -1,8 +1,10 @@
-package behavioral.template;
+package behavioral.template.v2;
+
+import behavioral.template.v2.GameProgressTemplate;
 
 import java.util.List;
 
-public class NormalGameProgress extends GameProgressTemplate{
+public class NormalGameProgress extends GameProgressTemplate {
     public NormalGameProgress(List<String> memberList) {
         super(memberList);
     }

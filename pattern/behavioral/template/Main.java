@@ -1,8 +1,8 @@
-package behavioral.template.main;
+package behavioral.template;
 
-import behavioral.template.GameProgressTemplate;
-import behavioral.template.ItemGameProgress;
-import behavioral.template.NormalGameProgress;
+import behavioral.template.v2.GameProgressTemplate;
+import behavioral.template.v2.ItemGameProgress;
+import behavioral.template.v2.NormalGameProgress;
 
 import java.io.BufferedReader;
 import java.io.IOException;

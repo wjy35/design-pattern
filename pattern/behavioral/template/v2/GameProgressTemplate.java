@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.template.v2;
 
 import java.util.List;
 
