@@ -2,7 +2,6 @@ package structural.adapter.v2;
 
 import structural.adapter.common.Redis;
 import structural.adapter.common.Service;
-import structural.adapter.v1.ServiceWithSQL;
 
 public class Main {
     public static void main(String[] args) {
