@@ -1,6 +1,5 @@
 package structural.adapter.v1;
 
-import structural.adapter.common.MySQL;
 import structural.adapter.common.SQL;
 import structural.adapter.common.Service;
 
